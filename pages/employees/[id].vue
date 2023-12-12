@@ -1,5 +1,5 @@
 <template>
-  <div>Product {{ id }}</div>
+  <div>Employee {{ id }}</div>
 </template>
 
 <script setup>

@@ -15,8 +15,8 @@
             >
           </li>
           <li class="nav-item">
-            <nuxt-link active-class="active" class="nav-link" to="/products"
-              >Products</nuxt-link
+            <nuxt-link active-class="active" class="nav-link" to="/employees"
+              >Employees</nuxt-link
             >
           </li>
         </ul>
